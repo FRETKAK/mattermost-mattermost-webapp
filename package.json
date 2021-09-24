@@ -6,7 +6,7 @@
   "version": "5.36.0-0",
   "private": true,
   "dependencies": {
-    "@formatjs/intl-pluralrules": "4.0.6",
+    "@formatjs/intl-pluralrules": "4.1.3",
     "@formatjs/intl-relativetimeformat": "6.2.3",
     "@mattermost/compass-components": "^0.2.12",
     "@mattermost/compass-icons": "^0.1.10",
